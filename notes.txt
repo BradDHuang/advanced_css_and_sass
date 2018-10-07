@@ -1,0 +1,23 @@
+
+
+// this file contains notes for future review.
+
+How Sass work?
+
+Sass src. code -(Sass Compiler)> compiled CSS code
+
+
+SCSS syntax is used.
+// Sass syntax does Not contains "{}" and ';'.
+
+
+
+
+
+
+
+
+
+
+
+
