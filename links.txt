@@ -11,6 +11,15 @@ https://www.w3schools.com/howto/howto_css_clearfix.asp
 
 https://sass-lang.com/guide
 
+https://www.npmjs.com/package/node-sass
+// Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass.
+// It allows you to natively compile .scss files to css 
+// at incredible speed and automatically via a connect middleware.
+
+https://docs.npmjs.com/files/package.json#dependencies
+// Do not put test harnesses or transpilers in your dependencies object. 
+// Put in devDependencies object.
+
 
 
 

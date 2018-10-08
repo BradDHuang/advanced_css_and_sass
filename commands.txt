@@ -13,6 +13,9 @@ rm ex.html
 rm -r js
 // remove the dir.
 
+npm run compile:sass
+// run the script.
+
 
 
 
