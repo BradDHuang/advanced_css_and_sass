@@ -11,14 +11,37 @@ $color-text-light: #eee;
 
 $width-btn: 150px;
 
-nav {
-  margin: 30px;
-  background-color: $color-primary;
+@mixin clearfix {
   &::after {
     content: "";
     clear: both;
     display: table;
   } // handles the problem when elements are floating.
+}
+@mixin style-link-text($prop) {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: $prop;
+}
+
+@function divide($prop1, $prop2) {
+  @return $prop1 / $prop2;
+}
+
+%btn-placeholder {
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 100px;
+  width: $width-btn;
+  @include style-link-text($color-text-light);
+}
+
+nav {
+  // margin: 30px;
+  margin: divide(60, 2) * 1px; // using custom func.
+  background-color: $color-primary;
+  @include clearfix;
 }
 
 .navigation {
@@ -32,9 +55,8 @@ nav {
     }
     // .navigation li:first-child {}
     a:link {
-      text-decoration: none;
-      text-transform: uppercase;
-      color: $color-text-dark;
+      @include style-link-text($color-text-dark);
+      // color: $color-text-dark;
     }
   }
 }
@@ -43,21 +65,15 @@ nav {
   float: right;
 }
 
-.btn-main:link,
-.btn-hot:link {
-  padding: 10px;
-  display: inline-block;
-  text-align: center;
-  border-radius: 100px;
-  text-decoration: none;
-  text-transform: uppercase;
-  width: $width-btn;
-  color: $color-text-light;
-}
+// .btn-main:link,
+// .btn-hot:link {
+// }
+// DRY
 
 .btn-main {
   &:link {
     background-color: $color-secondary;
+    @extend %btn-placeholder;
   }
   &:hover {
     background-color: darken($color-secondary, 15%);
@@ -67,6 +83,7 @@ nav {
 .btn-hot {
   &:link {
     background-color: $color-tertiary;
+    @extend %btn-placeholder;
   }
   &:hover {
     background-color: lighten($color-tertiary, 10%);

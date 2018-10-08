@@ -4,9 +4,12 @@
 
 https://codepen.io/
 // CodePen is a social development environment for front-end designers and developers. 
+https://codepen.io/anon/pen/EdNyVv?editors=1100#0
 
 https://www.w3schools.com/howto/howto_css_clearfix.asp
 // How To Clear Floats
+
+https://sass-lang.com/guide
 
 
 
