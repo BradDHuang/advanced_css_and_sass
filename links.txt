@@ -20,6 +20,9 @@ https://docs.npmjs.com/files/package.json#dependencies
 // Do not put test harnesses or transpilers in your dependencies object. 
 // Put in devDependencies object.
 
+https://www.npmjs.com/package/live-server
+// This is a little development server with live reload capability. 
+
 
 
 

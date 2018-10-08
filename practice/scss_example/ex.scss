@@ -38,8 +38,8 @@ $width-btn: 150px;
 }
 
 nav {
-  margin: 30px;
-//   margin: divide(60, 2) * 1px; // using custom func.
+//   margin: 30px;
+  margin: divide(60, 2) * 1px; // using custom func.
   background-color: $color-primary;
   @include clearfix;
 }
@@ -86,7 +86,7 @@ nav {
     @extend %btn-placeholder;
   }
   &:hover {
-    background-color: lighten($color-tertiary, 10%);
+    background-color: lighten($color-tertiary, 15%);
   }
 }
 

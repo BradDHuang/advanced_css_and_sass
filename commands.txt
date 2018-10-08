@@ -16,6 +16,10 @@ rm -r js
 npm run compile:sass
 // run the script.
 
+npm i live-server -g
+
+live-server
+
 
 
 
