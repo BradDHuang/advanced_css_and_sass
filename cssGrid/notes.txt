@@ -1,0 +1,37 @@
+
+// this file contains notes about css grid
+
+css grid?
+    new module, 2-Dimensional grid
+    more readable, e.g. for layouts
+    with Flexbox
+    
+use
+.container>.item.item--$*6
+with "tab"
+for quick HTML template.
+
+The grid-template-rows property 
+specifies the number (and the heights) of the rows in a grid layout.
+The values are a space-separated list, 
+where each value specifies the height of the respective row.
+    
+The grid-template-columns property 
+specifies the number (and the widths) of columns in a grid layout.
+The values are a space separated list, 
+where each value specifies the size of the respective column.
+
+grid-row-gap: 
+defines the size of the gap between the rows in a grid layout.
+
+grid-gap  
+defines the size of the gap between the rows and columns in a grid layout
+
+// https://codepen.io/anon/pen/RexRJw?editors=1100
+
+
+
+
+
+
+
