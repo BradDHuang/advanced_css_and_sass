@@ -1,0 +1,25 @@
+
+// Notes about Bootstrap4:
+
+
+https://getbootstrap.com/docs/4.1/migration/#global-changes
+
+Switched from 
+px to rem 
+as our primary CSS unit, 
+though pixels are still used for media queries and grid behavior as device viewports are not affected by type size.
+
+// rem: relative to font-size of the 
+// root element
+
+https://www.w3schools.com/cssref/css_units.asp
+
+Global font-size increased from 14px to 16px.
+
+
+
+
+
+
+
+
