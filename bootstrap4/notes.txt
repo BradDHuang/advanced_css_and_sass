@@ -20,6 +20,12 @@ Global font-size increased from 14px to 16px.
 https://getbootstrap.com/docs/4.1/utilities/borders/
 https://getbootstrap.com/docs/4.1/utilities/spacing/
 
+https://getbootstrap.com/docs/4.1/layout/overview/#responsive-breakpoints
+
+The classes are named using the format {property}{sides}-{size} for xs 
+and {property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl.
+
+
 
 
 
