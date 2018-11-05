@@ -7,6 +7,10 @@ https://getbootstrap.com/docs/4.1/utilities/flex/#justify-content
 https://getbootstrap.com/docs/4.1/utilities/flex/#align-items
 https://getbootstrap.com/docs/4.1/utilities/flex/#direction
 
+https://getbootstrap.com/docs/4.1/components/navs/
+https://getbootstrap.com/docs/4.1/components/navs/#tabs
+https://getbootstrap.com/docs/4.1/migration/#navs
+
 
 
 
