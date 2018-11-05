@@ -1,0 +1,18 @@
+
+// this file contains notes & links related to Flexbox.
+
+
+https://getbootstrap.com/docs/4.1/utilities/flex/
+https://getbootstrap.com/docs/4.1/utilities/flex/#justify-content
+https://getbootstrap.com/docs/4.1/utilities/flex/#align-items
+https://getbootstrap.com/docs/4.1/utilities/flex/#direction
+
+
+
+
+
+
+
+
+
+
