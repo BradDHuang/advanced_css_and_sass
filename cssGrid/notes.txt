@@ -30,6 +30,21 @@ defines the size of the gap between the rows and columns in a grid layout
 // https://codepen.io/anon/pen/RexRJw?editors=1100
 
 
+https://getbootstrap.com/docs/4.1/migration/#grid-system-1
+
+Grid system
+    Added a new 
+    576px 
+    grid breakpoint as 
+    sm, 
+    meaning there are now 
+    5 total tiers (xs, sm, md, lg, and xl).
+    
+https://getbootstrap.com/docs/4.1/layout/grid/
+https://getbootstrap.com/docs/4.1/layout/grid/#grid-options
+
+
+
 
 
 
