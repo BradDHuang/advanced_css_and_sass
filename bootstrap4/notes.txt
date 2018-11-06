@@ -41,7 +41,8 @@ the classes are named using the format:
 https://getbootstrap.com/docs/4.1/components/jumbotron/
 
 
-
+https://getbootstrap.com/docs/4.0/components/navbar/#color-schemes
+https://getbootstrap.com/docs/4.0/components/navbar/#brand
 
 
 
