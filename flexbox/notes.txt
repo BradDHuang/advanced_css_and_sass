@@ -5,6 +5,7 @@
 https://getbootstrap.com/docs/4.1/utilities/flex/
 https://getbootstrap.com/docs/4.1/utilities/flex/#justify-content
 https://getbootstrap.com/docs/4.1/utilities/flex/#align-items
+https://getbootstrap.com/docs/4.0/utilities/flex/#align-self
 https://getbootstrap.com/docs/4.1/utilities/flex/#direction
 
 https://getbootstrap.com/docs/4.1/components/navs/
