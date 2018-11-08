@@ -47,7 +47,7 @@ https://getbootstrap.com/docs/4.0/components/navbar/#brand
 https://getbootstrap.com/docs/4.0/components/card/
 
 
-
+https://getbootstrap.com/docs/4.0/content/images/#responsive-images
 
 
 
