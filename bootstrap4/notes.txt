@@ -53,4 +53,8 @@ https://getbootstrap.com/docs/4.0/layout/grid/#order-classes
 
 https://getbootstrap.com/docs/4.1/content/typography/#lead
 
+Vertical margins can collapse.
+
+
+
 
