@@ -49,6 +49,8 @@ https://getbootstrap.com/docs/4.0/components/card/
 
 https://getbootstrap.com/docs/4.0/content/images/#responsive-images
 
+https://getbootstrap.com/docs/4.0/layout/grid/#order-classes
 
+https://getbootstrap.com/docs/4.1/content/typography/#lead
 
 
