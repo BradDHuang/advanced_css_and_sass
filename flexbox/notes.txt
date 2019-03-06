@@ -12,6 +12,23 @@ https://getbootstrap.com/docs/4.1/components/navs/
 https://getbootstrap.com/docs/4.1/components/navs/#tabs
 https://getbootstrap.com/docs/4.1/migration/#navs
 
+Flexbox:
+    New module in CSS3
+    that makes it easy to 
+    align elements to one another,
+    in different directions and orders.
+    
+    Give the container the ability to
+    expand and to shrink elements
+    to best use all the available space.
+    
+    Replaces float layouts,
+    using lesss,
+    and more readable and logical code.
+    
+    Changes the way that we build 
+    one-dimensional layouts.
+    
 
 
 
